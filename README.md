@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I learned SQL to find my future wife**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
