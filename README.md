@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumon97&label=Profile%20views&color=0e75b6&style=flat" alt="sumon97" /> </p>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Robotics**
 
 - 💬 Ask me about **Python, Laravel, Django,**
 
