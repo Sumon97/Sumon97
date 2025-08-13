@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **msumondrs@gmail.com**
 
-- ⚡ Fun fact **I learned SQL to find my future wife**
+- ⚡ Fun fact **I learned SQL to find my future wife (Done)**
 
 <p align="left">
 </p>
